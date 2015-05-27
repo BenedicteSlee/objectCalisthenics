@@ -8,3 +8,5 @@ Named tuples: https://docs.python.org/2/library/collections.html
 Tell don't ask: https://pragprog.com/articles/tell-dont-ask
 
 Python enums: http://stackoverflow.com/questions/36932/how-can-i-represent-an-enum-in-python
+
+Primitive obsession: http://c2.com/cgi/wiki?PrimitiveObsession
